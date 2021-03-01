@@ -1,3 +1,3 @@
 # python-selenium-proje
 
-selenium ile instagrama giriş yaparak arama yerinden bir arkadaşınızı arar bulur ve ona özelden bir mesaj atar.
+selenium ile instagrama giriş yaparak arama yerinden bir arkadaşınızı arar bulur ve ona özelden bir mesaj atan python kodu.
